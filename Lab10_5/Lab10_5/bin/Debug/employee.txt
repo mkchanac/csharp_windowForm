@@ -1,0 +1,8 @@
+Employee Name: cmy
+Number: 000
+Total amount of Pay: $825.00
+
+Employee Name: cmk
+Number: 0617
+Total amount of Pay: $1,250.00
+

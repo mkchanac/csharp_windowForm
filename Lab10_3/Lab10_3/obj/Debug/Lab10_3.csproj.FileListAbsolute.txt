@@ -1,0 +1,10 @@
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\bin\Debug\Lab10_3.exe.config
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\bin\Debug\Lab10_3.exe
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\bin\Debug\Lab10_3.pdb
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.FileAccessApp.resources
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.Properties.Resources.resources
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.csproj.GenerateResource.cache
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.exe
+C:\Users\unite\source\repos\Lab10_3\Lab10_3\obj\Debug\Lab10_3.pdb
